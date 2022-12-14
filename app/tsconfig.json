@@ -3,6 +3,9 @@
     "compilerOptions": {
         "removeComments": true,
         "module":"CommonJS",
+        "moduleResolution":"Node",
+        "traceResolution": true,
+        // "baseUrl": "./modules"
     },
     // "include": [
     //     "./**/*"
